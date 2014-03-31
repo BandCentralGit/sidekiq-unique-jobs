@@ -1,3 +1,6 @@
+## v2.8.0
+- Bumped sidekiq dependancy to version 3.0.0
+
 ## v2.7.0
 - Use mock_redis when testing in fake mode
 - Replace minitest with rspec
